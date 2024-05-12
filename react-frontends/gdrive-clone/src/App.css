@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.file-icon{
+  font-size: 5rem;
+}
+
+.flex-centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-margin{
+  margin : 0px !important;
+}
+
+a{
+  text-decoration:none
+}
